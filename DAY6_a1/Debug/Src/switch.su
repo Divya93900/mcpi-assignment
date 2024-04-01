@@ -1,0 +1,3 @@
+../Src/switch.c:12:6:SwitchInit	16	static
+../Src/switch.c:23:5:SwitchGetState	24	static
+../Src/switch.c:32:6:EXTI0_ITRHandler	4	static
