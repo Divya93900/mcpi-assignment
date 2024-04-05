@@ -45,7 +45,7 @@ int main(void)
 				LedOn(LED_RED);
 						//TimerDelayMs(700);
 						LedOn(LED_ORANGE);
-			TimerDelayMs(1000);
+			TimerDelayMs(3000);
 			LedOff(LED_BLUE);
 				//TimerDelayMs(700);
 				LedOff(LED_GREEN);
@@ -53,7 +53,7 @@ int main(void)
 						LedOff(LED_RED);
 								//TimerDelayMs(700);
 								LedOff(LED_ORANGE);
-					TimerDelayMs(1000);
+					TimerDelayMs(7000);
 
 
 	/*SystemInit();
